@@ -2,7 +2,7 @@
 <!--       GITHUB PROFILE README - YAMINI NAGOTHU  -->
 <!-- ============================================= -->
 
-<h1 align="center">Hi there, I'm Yamini Nagothu 👋</h1>
+<h1 align="center">Yamini Nagothu </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;B.Tech+CSE+%40+SRM+AP+University;Always+Learning+%2B+Building" alt="Typing SVG" />

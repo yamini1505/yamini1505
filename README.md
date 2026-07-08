@@ -59,11 +59,6 @@ I'm a Computer Science student at **SRM AP University**, based in Guntur, India,
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-007ACC?style=for-the-badge"/>

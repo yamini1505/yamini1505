@@ -96,14 +96,7 @@ Seeking opportunities as a:
 
 ---
 
-<div align="center">
 
-### 💡 Developer Philosophy
-
-> *"I enjoy transforming ideas into scalable software solutions and continuously learning technologies that create real-world impact."*
-
-</div>
----
 
 ### 🛠️ Tech Stack
 

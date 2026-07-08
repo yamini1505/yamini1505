@@ -76,7 +76,6 @@ Seeking opportunities as a:
 ### 🌱 Interests
 
 - 💻 Full Stack Development
-- 📱 React Native
 - 🤖 AI & Machine Learning
 - 🧩 Data Structures & Algorithms
 
@@ -86,7 +85,6 @@ Seeking opportunities as a:
 
 ### 🚀 Currently Focusing On
 
-- MERN Stack Projects
 - AI & Large Language Models
 - Real-World Software Development
 - Problem Solving & DSA

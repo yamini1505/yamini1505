@@ -32,14 +32,79 @@ Computer Science Student at SRM AP University
 
 ### 🧠 About Me
 
-I'm a Computer Science student at **SRM AP University**, based in Guntur, India, passionate about **full-stack development, React Native, and AI**. I enjoy building scalable applications and continuously learning new technologies to solve real-world problems.
+<h2 align="center">🧠 About Me</h2>
 
-- 🎯 **Career Goals:** Seeking opportunities as a Software Engineer, Full-Stack Developer, React Native Developer, or AI/ML Engineer to build impactful solutions and grow as a developer.
-- 🌱 **Interests:** Full-Stack Development · React Native · AI & Machine Learning · DSA & Problem Solving
-- 💡 **Fun Fact:** I enjoy turning real-world problems into practical software solutions and love learning new technologies through hands-on projects.
-- 🎓 **Education:** B.Tech in Computer Science, SRM AP University
-- 📍 **Location:** Guntur, India
+<table align="center">
+<tr>
+<td width="50%">
 
+### 👩‍💻 Profile
+
+- 🎓 **B.Tech in Computer Science**
+- 🏫 **SRM AP University**
+- 📍 **Guntur, Andhra Pradesh, India**
+- 💼 **Full Stack Developer**
+- 🤖 **AI/ML Enthusiast**
+- 📱 **React Native Developer**
+
+</td>
+
+<td width="50%">
+
+### 🎯 Career Goal
+
+Passionate about building scalable web and mobile applications while exploring Artificial Intelligence and Machine Learning.
+
+Seeking opportunities as a:
+
+- Software Engineer
+- Full Stack Developer
+- React Native Developer
+- AI/ML Engineer
+
+</td>
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+
+<td width="50%">
+
+### 🌱 Interests
+
+- 💻 Full Stack Development
+- 📱 React Native
+- 🤖 AI & Machine Learning
+- 🧩 Data Structures & Algorithms
+
+</td>
+
+<td width="50%">
+
+### 🚀 Currently Focusing On
+
+- MERN Stack Projects
+- AI & Large Language Models
+- Real-World Software Development
+- Problem Solving & DSA
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💡 Developer Philosophy
+
+> *"I enjoy transforming ideas into scalable software solutions and continuously learning technologies that create real-world impact."*
+
+</div>
 ---
 
 ### 🛠️ Tech Stack

@@ -55,12 +55,19 @@ I'm a Computer Science student at **SRM AP University**, based in Guntur, India,
 <h3 align="center">📦 Frameworks & Libraries</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,react,nodejs,express,mongodb,mysql,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 <h3 align="center">⚙️ Tools & Platforms</h3>
@@ -76,15 +83,10 @@ I'm a Computer Science student at **SRM AP University**, based in Guntur, India,
 <h3 align="center">🧠 Core Skills</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Responsive_Web_Design-009688?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-F28C28?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-009688?style=for-the-badge"/>
 </p>
-
 ---
 
 ### 🚀 Featured Projects

@@ -5,9 +5,17 @@
   Replace/update text inline as your projects & skills grow.
   ============================================================
 -->
+<h1 align="center">
+Hi 👋 I'm Yamini Nagothu
+</h1>
 
-<h1 align="center">Yamini Nagothu</h1>
-<h3 align="center">Full Stack Developer | AI/ML Engineer | React Native Enthusiast</h3>
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 AI/ML Engineer | 📱 React Native Developer
+</h3>
+
+<p align="center">
+Computer Science Student at SRM AP University
+</p>
 
 <!-- Animated typing banner (edit the &lines= param to change text) -->
 <p align="center">

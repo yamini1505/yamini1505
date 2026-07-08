@@ -6,7 +6,7 @@
   ============================================================
 -->
 <h1 align="center">
-Hi 👋 I'm Yamini Nagothu
+ Yamini Nagothu
 </h1>
 
 <h3 align="center">

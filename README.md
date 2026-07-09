@@ -1,32 +1,34 @@
-<!--
-  ============================================================
-  GITHUB PROFILE README — Yamini Nagothu
-  Update instructions are left as HTML comments throughout.
-  Replace/update text inline as your projects & skills grow.
-  ============================================================
--->
+
 <h1 align="center">
- Yamini Nagothu
+  <b>Yamini Nagothu</b>
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 🤖 AI/ML Engineer | 📱 React Native Developer
+  AI/ML Developer • Full Stack Developer • Problem Solver
 </h3>
 
-<p align="center">
-Computer Science Student at SRM AP University
-</p>
+
 
 <!-- Animated typing banner (edit the &lines= param to change text) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+digital+space;Full+Stack+Developer;AI%2FML+Engineer;DSA+%26+Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
+
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yamini-nagothu-28b264291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nagothuyamini4848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yamini1505"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yamini-nagothu-28b264291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nagothuyamini4848@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yamini1505">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yamini1505&label=PROFILE+VIEWS&style=for-the-badge&color=3b82f6" />
 </p>
+
 
 ---
 
@@ -95,9 +97,6 @@ Seeking opportunities as a:
 </table>
 
 ---
-
-
-
 ### 🛠️ Tech Stack
 
 <h3 align="center">💻 Languages</h3>
@@ -129,72 +128,55 @@ Seeking opportunities as a:
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
 </p>
 
-
+<hr style="border: 1px solid #30363d;">
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **AI-Powered Law Enforcement Documentation System** | AI platform for multilingual speech transcription, translation, and automated report generation for law enforcement workflows. | `Python` `AI/ML` `NLP` `Speech Recognition` |
-| **Source Retrieval Using Transformers & Project-Aware Agent** | Transformer-based multi-agent AI system that reconstructs human-readable source code from compiled binaries with 91% compilation success. | `Python` `Ghidra` `Transformers` `LLMs` `Multi-Agent AI` |
-| **Sentiment Analysis System** | Machine learning application for customer review sentiment prediction using Amazon, IMDb, and Yelp datasets with Streamlit deployment. | `Python` `Streamlit` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` |
+| **AI-Powered Law Enforcement Documentation System** | AI-based platform for multilingual speech transcription, translation, and automated report generation for law enforcement agencies. | `Python` `AI/ML` `NLP` `Speech Recognition` |
+| **Source Retrieval Using Transformers & Project-Aware Agent** | Reverse engineering system that reconstructs source code from binaries using Transformer-based LLMs and multi-agent AI. | `Python` `Ghidra` `Transformers` `LLMs` |
+| **Sentiment Analysis System** | Machine learning application that predicts customer review sentiment using Amazon, IMDb, and Yelp datasets. | `Python` `Streamlit` `Scikit-Learn` |
 
 ---
 
-### 💠 AI-Powered Law Enforcement Documentation System
+### 🔹 AI-Powered Law Enforcement Documentation System
 
-Developed an AI-powered platform that automates multilingual speech transcription, translation, and document generation for law enforcement workflows.
+AI-powered platform for multilingual speech transcription, translation, and document generation.
 
-#### ✨ Key Features
-
+**Highlights**
 - 🌍 Multilingual speech transcription
-- 🌐 Real-time language translation
+- 🌐 Language translation
 - 📄 Automatic report generation
-- 🤖 NLP-powered document processing
-- 🔒 Secure law enforcement workflow
-
-**Tech Stack**
+- 🤖 NLP-based processing
 
 `Python` `AI/ML` `NLP` `Speech Recognition`
 
 ---
+### 🔹 Source Retrieval Using Transformers & Project-Aware Agent
 
-### 💠 Source Retrieval Using Transformers & Project-Aware Agent
+Transformer-based reverse engineering system for recovering readable source code from compiled binaries.
 
-Developed a neural-symbolic reverse engineering system that reconstructs human-readable source code from compiled binaries using Transformer-based LLMs and a Project-Aware Multi-Agent architecture.
-
-#### ✨ Key Features
-
-- 🤖 Transformer-based source code recovery
+**Highlights**
+- 🤖 Transformer-based source recovery
 - 🔍 Binary analysis using Ghidra
-- 🧠 Multi-Agent AI architecture
-- 📈 91% compilation success rate
-- ⚡ Automated reverse engineering pipeline
+- 🧠 Multi-Agent AI pipeline
+- 📈 91% compilation success
 
-**Tech Stack**
-
-`Python` `Ghidra` `Transformers` `LLMs` `Multi-Agent AI`
+`Python` `Ghidra` `Transformers` `LLMs`
 
 ---
+### 🔹 Sentiment Analysis System
 
-### 💠 Sentiment Analysis System
+Machine learning application for classifying customer reviews as positive or negative using multiple ML models.
 
-Built a machine learning-based sentiment analysis application using Amazon, IMDb, and Yelp datasets. Compared multiple classification models and deployed the best-performing model using Streamlit.
+**Highlights**
+- 😊 Sentiment prediction
+- 📊 SVM, ANN & Random Forest models
+- 🌐 Streamlit web application
+- 📈 Model performance comparison
 
-#### ✨ Key Features
-
-- 😊 Customer review sentiment prediction
-- 🧹 Text preprocessing pipeline
-- 🤖 SVM, ANN, and Random Forest models
-- 📊 Performance evaluation and comparison
-- 🌐 Interactive Streamlit web application
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn` `Streamlit` `SVM` `ANN` `Random Forest`
-
-
-
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn` `Streamlit`
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -208,39 +190,59 @@ Built a machine learning-based sentiment analysis application using Amazon, IMDb
 
 ---
 
-### 🏆 Achievements & Certifications
+## 🎓 Certifications
 
-- 🔬 Research Intern at **SRM AP University** — Developed AI-powered solutions for law enforcement documentation
-- 💻 Full Stack Web Development Internship — **Edunet Foundation**
-- ☕ Oracle Java Programming Certification
-- 🍃 MongoDB Certification
-- 🤖 Built AI/ML projects in Reverse Engineering, Sentiment Analysis, and Intelligent Documentation Systems
-
----
-
-### 📚 Currently Learning
-
-- Advanced AI & Machine Learning
-- Large Language Models (LLMs) & Generative AI
+| Badge | Certification | Issuer |
+|:----:|---------------|--------|
+| ☁️ | Oracle Cloud Infrastructure AI Foundations Associate | Oracle |
+| 💻 | Full Stack Web Development Internship | Edunet Foundation |
+| ☕ | Oracle Java Programming Certification | Oracle |
+| 🍃 | MongoDB Certification | MongoDB |
+| 🤖 | AI/ML Projects in Reverse Engineering, Sentiment Analysis & Intelligent Documentation Systems | SRM AP University |
 
 ---
 
-### 🤝 Open to Collaborate On
-
-- Open Source Projects
-- AI/ML Applications
-- Research Projects
-- Full-Stack Web Development
-  
-
----
-
-### 📫 Connect With Me
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yamini-nagothu-28b264291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nagothuyamini4848@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/yamini1505"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamini1505&theme=github-dark&hide_border=true" alt="Yamini's Contribution Graph"/>
 </p>
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories and reach out.</i></p>
+---
+<h2>💡 Development Philosophy</h2>
+
+<table align="center">
+<tr>
+<td>
+
+<pre>
+▶ Build practical, impactful systems
+▶ Learn continuously, adapt quickly
+▶ Write clean, readable, scalable code
+▶ Stay consistent — results follow
+▶ Solve real problems with real code
+</pre>
+
+</td>
+</tr>
+</table>
+
+<hr style="border: 1px solid #30363d;">
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/yamini1505" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/yamini-nagothu-28b264291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:nagothuyamini4848@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+

@@ -100,8 +100,6 @@ Seeking opportunities as a:
 
 ### 🛠️ Tech Stack
 
-<h2 align="center">🛠 Tech Stack</h2>
-
 <h3 align="center">💻 Languages</h3>
 
 <p align="center">
@@ -111,13 +109,10 @@ Seeking opportunities as a:
 <h3 align="center">📦 Frameworks & Libraries</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
@@ -131,12 +126,13 @@ Seeking opportunities as a:
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
 </p>
 
-<h3 align="center">🧠 Core Skills</h3>
+<h3 align="center">📊 Data Science Libraries</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-F28C28?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 ---
 

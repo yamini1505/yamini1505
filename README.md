@@ -129,36 +129,71 @@ Seeking opportunities as a:
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
 </p>
 
-<h3 align="center">📊 Data Science Libraries</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AI-Powered Law Enforcement Documentation System** | AI platform for multilingual speech transcription, translation, and automated report generation for law enforcement workflows. | `Python` `AI/ML` `NLP` `Speech Recognition` |
+| **Source Retrieval Using Transformers & Project-Aware Agent** | Transformer-based multi-agent AI system that reconstructs human-readable source code from compiled binaries with 91% compilation success. | `Python` `Ghidra` `Transformers` `LLMs` `Multi-Agent AI` |
+| **Sentiment Analysis System** | Machine learning application for customer review sentiment prediction using Amazon, IMDb, and Yelp datasets with Streamlit deployment. | `Python` `Streamlit` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` |
+
 ---
 
-### 🚀 Featured Projects
+### 💠 AI-Powered Law Enforcement Documentation System
 
-<!-- Add a Live Demo link under each project once deployed -->
+Developed an AI-powered platform that automates multilingual speech transcription, translation, and document generation for law enforcement workflows.
 
-#### 🔹 [AI-Powered Law Enforcement Documentation System](#)
-Developed an AI-powered platform that automates multilingual speech transcription, translation, and document generation for law enforcement workflows. Leverages NLP and speech recognition to improve documentation accuracy, reduce manual effort, and streamline report generation.
+#### ✨ Key Features
+
+- 🌍 Multilingual speech transcription
+- 🌐 Real-time language translation
+- 📄 Automatic report generation
+- 🤖 NLP-powered document processing
+- 🔒 Secure law enforcement workflow
+
+**Tech Stack**
 
 `Python` `AI/ML` `NLP` `Speech Recognition`
 
-#### 🔹 [Source Retrieval Using Transformers and Project-Aware Agent](https://github.com/yamini1505/Source-retrieval)
-Developed a neural-symbolic reverse engineering system that reconstructs human-readable source code from compiled binaries using Transformer-based LLMs. Designed a multi-agent AI pipeline for binary analysis and source code recovery, achieving a **91% compilation success rate**.
+---
+
+### 💠 Source Retrieval Using Transformers & Project-Aware Agent
+
+Developed a neural-symbolic reverse engineering system that reconstructs human-readable source code from compiled binaries using Transformer-based LLMs and a Project-Aware Multi-Agent architecture.
+
+#### ✨ Key Features
+
+- 🤖 Transformer-based source code recovery
+- 🔍 Binary analysis using Ghidra
+- 🧠 Multi-Agent AI architecture
+- 📈 91% compilation success rate
+- ⚡ Automated reverse engineering pipeline
+
+**Tech Stack**
 
 `Python` `Ghidra` `Transformers` `LLMs` `Multi-Agent AI`
 
-#### 🔹 [Sentiment Analysis System](https://github.com/yamini1505/SENTIMENTAL-ANALYSIS)
-Built a machine learning-based sentiment analysis application using Amazon, IMDb, and Yelp datasets. Implemented multiple classification models — SVM, ANN, and Random Forest — and deployed the solution as a Streamlit web application for real-time sentiment prediction.
-
-`Python` `Streamlit` `Scikit-learn` `SVM` `ANN` `Random Forest`
-
 ---
+
+### 💠 Sentiment Analysis System
+
+Built a machine learning-based sentiment analysis application using Amazon, IMDb, and Yelp datasets. Compared multiple classification models and deployed the best-performing model using Streamlit.
+
+#### ✨ Key Features
+
+- 😊 Customer review sentiment prediction
+- 🧹 Text preprocessing pipeline
+- 🤖 SVM, ANN, and Random Forest models
+- 📊 Performance evaluation and comparison
+- 🌐 Interactive Streamlit web application
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn` `Streamlit` `SVM` `ANN` `Random Forest`
+
+
 
 ### 📊 GitHub Stats
 
